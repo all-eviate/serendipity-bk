@@ -10,7 +10,7 @@
 
 ------
 
-> serendipity-pjt.click
+> serendipity-pjt.click (현재 서버 종료)
 
 ## ☺️초록
 
@@ -35,7 +35,7 @@
 
 ------
 
-![stack w bg](README.assets/stack w bg.png)
+<img src="README.assets/stack w bg.png">
 
 ## 📜기능 일람
 
@@ -85,7 +85,7 @@
 
 ------
 
-![모델.png](README.assets/모델.png)
+<img src="README.assets/모델.png">
 
 ## 📋개요
 
@@ -212,7 +212,7 @@ $ python manage.py runserver
 ```
 
 - CLIENT
-
+> 프론트엔드 레포지토리: https://github.com/all-eviate/serendipity-fr
 ```bash
 $ cd fianl-pjt-front
 $ npm i
